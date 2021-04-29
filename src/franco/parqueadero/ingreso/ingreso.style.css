@@ -1,0 +1,10 @@
+.ingreso-container{
+    border: 1px solid tomato;
+        width: 99%;
+        margin-bottom: 1px;
+        min-height: 20px;   
+        padding: 1px;
+        text-align: left;
+    
+    }
+    

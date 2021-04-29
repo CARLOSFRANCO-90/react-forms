@@ -1,0 +1,27 @@
+.vehiculo-container{
+
+    width: 96%;
+    margin: 0% auto;
+    min-height: 280px;
+    border: 2px solid yellow;
+    padding: 2px;
+    margin-top: 4px;
+    text-align: left;
+
+
+}
+
+.titulo{
+    margin-bottom: 0px;
+    display: inline-block;
+    margin-top: 0px;
+    font-weight: bold;
+
+}
+.titulo-cliente{
+    margin-left: 50px;
+}
+
+.titulo-vehiculo{
+    margin-left: 100px;
+}

@@ -1,0 +1,9 @@
+.tabla-principal-container{
+    width: 30%;
+    margin: 0% auto;
+    min-height: 10px;
+    border: 2px solid orange;
+    padding: 2px;
+    margin-top: 10px;
+    text-align: left;
+}

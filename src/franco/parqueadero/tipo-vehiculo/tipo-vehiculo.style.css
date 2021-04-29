@@ -1,0 +1,9 @@
+.tipo-vehiculo-container {
+    border: 1px solid cyan;
+    width: 99%;
+    margin-bottom: 1px;
+    min-height: 20px;   
+    padding: 1px;
+    text-align: center;
+    font-weight: bold;
+}

@@ -1,0 +1,9 @@
+.cliente-container {
+    width: 98%;
+    margin: 0% auto;
+    min-height: 75px;
+    border: 2px solid blue;
+    padding: 10px;
+    margin-top: 10px;
+    text-align: left;
+}
